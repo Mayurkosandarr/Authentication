@@ -1,0 +1,8 @@
+# Ignore .env file
+.env
+
+# Other ignored files/folders
+__pycache__/
+*.pyc
+db.sqlite3
+staticfiles/
